@@ -20,11 +20,12 @@ Status
 Draft v0.1 — actively developed. Public for timestamping, engagement, and feedback. Major revisions expected. The framework is itself revisable through its own mechanisms.
 Where to start
 
-PRIMER.md — introduction for newcomers
-SPEC.md — full framework specification
-APPLICATIONS.md — domains of application
-EXAMPLES.md — worked examples (novice onboarding, advanced practitioner instance, multi-agent handshakes, edge cases)
-PRECEDENTS.md — intellectual lineage and adjacent work
+- PRIMER.md — introduction for newcomers
+- SPEC.md — full framework specification
+- APPLICATIONS.md — domains of application
+- EXAMPLES.md — worked examples (novice onboarding, advanced practitioner instance, multi-agent handshakes, edge cases)
+- PRECEDENTS.md — intellectual lineage and adjacent work
+- SECURITY.md - ANO's developing security and trust architecture: threat model, trust framework, handshake protections, post-grant countermeasures, and network-level governance.
 
 Citation
 See CITATION.cff for canonical citation format.
