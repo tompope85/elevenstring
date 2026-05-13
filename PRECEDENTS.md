@@ -12,20 +12,38 @@ Encounters with adjacent work, corrections, and identification of missed precede
 
 ## Direct influences
 
-## Encountered via dialogue and secondary sources
-
-## Adjacent work and orientation
+### Speculative fiction and civilisational imagination
+- Iain M. Banks — The Culture series (1987–2012; Consider Phlebas, The Player of Games, Use of Weapons, Excession, Look to Windward, Surface Detail, The Hydrogen Sonata, and others). Post-scarcity civilisation coordinating through shared protocols rather than central authority; AI Minds as peer agents to biological beings with their own values and agency; Contact and Special Circumstances grappling with the ethics of engagement across radically different civilisations; identity decoupled from substrate (bodies, species, gender all mutable). Direct influence on ANO's multi-agent coordination architecture, AI-human peer-handshake design, ethics of engaging "other" civilisations and frameworks, identity-substrate decoupling, and federated meta-governance.
 ### Recursive systems and meta-systems
-
-Stafford Beer — Viable System Model (VSM). Recursive viable systems at multiple levels, each maintaining viability through similar structural patterns. In the lineage of ANO's reflexive levels.
 Niklas Luhmann — Social Systems. Autopoietic systems maintained through self-referential operation. In the lineage of the operation-primary view.
-Heinz von Foerster — second-order cybernetics. Observer-included systems.
-Humberto Maturana & Francisco Varela — autopoiesis. Living systems as self-producing.
-Ken Wilber — AQAL (quadrants × levels × lines × states × types). Adjacent multi-axis integrative meta-framework with shared ambition; diverges on operation-primary metaphysics and triadic typology.
-Gregory Bateson — levels of learning, ecology of mind.
+### Triadic structures
+G.W.F. Hegel — dialectic of being / nothing / becoming.
+Jacques Lacan — symbolic / real / imaginary. Triadic structure of psyche.
+### Communicative action and discourse
+Jürgen Habermas — communicative action, discourse ethics, validity claims. Adjacent to handshake protocols and meta-of-meta coherence as respect criterion
+### Embodied and extended cognition
+- James Gibson — affordance theory.
+- Peter Gärdenfors — Conceptual Spaces. Adjacent to sense-based geometry framing.
+## Personal knowledge management and tools for thought
+Niklas Luhmann — Zettelkasten method.
+
+## Encountered via dialogue and secondary sources
+### Recursive systems and meta-systems
+- Stafford Beer — Viable System Model (VSM). Recursive viable systems at multiple levels, each maintaining viability through similar structural patterns. In the lineage of ANO's reflexive levels.
+### Process metaphysics
+- William James — radical empiricism, pluralism.
+## Philosophy and sociology of science
+Thomas Kuhn — Structure of Scientific Revolutions. Paradigm incommensurability. Adjacent to "other" typing of frameworks that don't translate cleanly.
+## Governance and plurality
+Audrey Tang & Glen Weyl — Plurality. May be a contemporary framework in spirit (exploring). Heterogeneous coordination via shared infrastructure.
+
+### Recursive systems and meta-systems
+- Heinz von Foerster — second-order cybernetics. Observer-included systems.
+- Humberto Maturana & Francisco Varela — autopoiesis. Living systems as self-producing.
+- Ken Wilber — AQAL (quadrants × levels × lines × states × types). Adjacent multi-axis integrative meta-framework with shared ambition; diverges on operation-primary metaphysics and triadic typology.
+- Gregory Bateson — levels of learning, ecology of mind.
 
 ### Pluralist and multi-paradigm thinking
-
 John Mingers — multimethodology. Loading different methodological paradigms in different contexts. In the lineage of loadable framings.
 Gibson Burrell & Gareth Morgan — sociological paradigms. Multiple incommensurable paradigms in organisational research.
 Isaiah Berlin — value pluralism. Plural goods irreducible to a common metric.
@@ -39,16 +57,11 @@ Robert Brandom — Making It Explicit. Inferentialism, scorekeeping in the game 
 Kurt Gödel — incompleteness theorems. Background for self-referential limits.
 
 ### Process metaphysics
-
 Alfred North Whitehead — Process and Reality. Actual occasions, prehension. In the lineage of operation-primary view and trace-based architecture.
 Henri Bergson — durée, lived time.
-William James — radical empiricism, pluralism.
 Douglas Hofstadter — Gödel, Escher, Bach. Strange loops; self-reference producing emergent structure.
 
 ### Triadic structures
-
-G.W.F. Hegel — dialectic of being / nothing / becoming. Conceptual ancestor of the triad.
-Jacques Lacan — symbolic / real / imaginary. Triadic structure of psyche.
 Nāgārjuna — Mūlamadhyamakakārikā. Catuṣkoṭi (four-corner logic). Adjacent to the triad with the fourth "neither" corner declined.
 Graham Priest — dialetheism, paraconsistent logic.
 
@@ -63,22 +76,16 @@ Paul Ricoeur — narrative identity, hermeneutic arc.
 Hans-Georg Gadamer — hermeneutic horizon, fusion of horizons.
 
 ### Communicative action and discourse
-
-Jürgen Habermas — communicative action, discourse ethics, validity claims. Adjacent to handshake protocols and meta-of-meta coherence as respect criterion.
 Hilary Putnam — internal realism, conceptual pluralism.
 Donald Davidson — radical interpretation, principle of charity, triangulation.
 
 ### Embodied and extended cognition
-
 Andy Clark — Being There, Supersizing the Mind. Extended cognition.
 Edwin Hutchins — Cognition in the Wild. Distributed cognition.
 Varela, Thompson, Rosch — The Embodied Mind.
 Lakoff & Johnson — image schemas, conceptual metaphor.
-James Gibson — affordance theory.
-Peter Gärdenfors — Conceptual Spaces. Adjacent to sense-based geometry framing.
 
 ### Ethics of recognition and alterity
-
 Axel Honneth — struggle for recognition.
 Charles Taylor — politics of recognition, sources of the self.
 Iris Marion Young — politics of difference.
@@ -89,14 +96,11 @@ Peirce, James, Dewey — classical pragmatism.
 Richard Rorty — anti-foundationalist pragmatism.
 
 ## Philosophy and sociology of science
-
-Thomas Kuhn — Structure of Scientific Revolutions. Paradigm incommensurability. Adjacent to "other" typing of frameworks that don't translate cleanly.
 Imre Lakatos — research programmes.
 Paul Feyerabend — Against Method. Methodological anarchism.
 Helen Longino — social epistemology.
 
 ## Distributed, federated, decentralised systems
-
 Tim Berners-Lee — Web, Semantic Web, Solid project.
 W3C DIDs, Verifiable Credentials. Adjacent to agent profiles and handshake declarations.
 ActivityPub — federated communication protocol.
@@ -105,8 +109,6 @@ Holochain (Arthur Brock, Eric Harris-Braun) — agent-centric distributed archit
 IETF / W3C governance models — multi-stakeholder protocol governance.
 
 ## Governance and plurality
-
-Audrey Tang & Glen Weyl — Plurality. Closest contemporary framework in spirit. Heterogeneous coordination via shared infrastructure.
 Elinor Ostrom — Governing the Commons. Polycentric governance.
 Daniel Schmachtenberger, Jordan Hall, Forrest Landry — civilizational design discourse.
 
@@ -125,8 +127,6 @@ Mark Miller — object-capability security. Adjacent to capability-based access 
 Tony Hoare — communicating sequential processes (CSP).
 
 ## Personal knowledge management and tools for thought
-
-Niklas Luhmann — Zettelkasten method.
 Andy Matuschak — evergreen notes.
 Maggie Appleton — digital gardens.
 Vannevar Bush — "As We May Think". Historical antecedent for augmented cognition.
@@ -139,7 +139,6 @@ Chris Argyris — double-loop learning. Adjacent to architectural-level review.
 Jack Mezirow — transformative learning.
 
 ## Indigenous and non-Western knowledge
-
 Tyson Yunkaporta — Sand Talk. Aboriginal Australian knowledge systems.
 Robin Wall Kimmerer — Braiding Sweetgrass. Indigenous botanical knowledge.
 Eduardo Kohn — How Forests Think. Anthropology of non-human semiotics.
