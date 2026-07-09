@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use elevenstring, please cite it as below."
+title: "elevenstring: A meta-framework for inter-agent epistemic-ethical operation under shared protocols"
+abstract: >-
+  A meta-framework enabling sovereign instances — human, AI, and organisational —
+  to coordinate without surrendering their philosophical commitments. Built from an
+  invariant kernel, loadable modules and framings, the All / Nothing / Other triad,
+  structured inter-agent handshakes, and a queryable trace. Formerly
+  AllOtherNothingProtocol.
+type: software
+authors:
+  - family-names: Pope
+    given-names: Thomas
+version: "0.1"
+date-released: 2026-05-13
+license: CC-BY-SA-4.0
+url: "https://github.com/tompope85/elevenstring"
+repository-code: "https://github.com/tompope85/elevenstring"
+keywords:
+  - inter-agent coordination
+  - epistemic-ethical infrastructure
+  - pluralism
+  - AI governance
+  - meta-framework

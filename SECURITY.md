@@ -1,10 +1,10 @@
-# SECURITY: AllOtherNothingProtocol (ANO)
+# SECURITY: elevenstring
 
-This document specifies ANO's security and trust architecture: threat model, trust framework, handshake protections, post-grant countermeasures, and network-level governance. For the broader framework specification, see [SPEC.md](./SPEC.md).
+This document specifies elevenstring's security and trust architecture: threat model, trust framework, handshake protections, post-grant countermeasures, and network-level governance. For the broader framework specification, see [SPEC.md](./SPEC.md).
 
 ## 1. Threat model
 
-ANO operates as inter-agent epistemic-ethical infrastructure. Its threat model addresses risks specific to this domain.
+elevenstring operates as inter-agent epistemic-ethical infrastructure. Its threat model addresses risks specific to this domain.
 
 ### 1.1 Primary threats
 
@@ -197,7 +197,7 @@ Protocol changes follow IETF / W3C-style processes: working groups, public comme
 
 ## 7. AI-specific considerations
 
-AI agents in ANO present specific security considerations due to capability asymmetries.
+AI agents in elevenstring present specific security considerations due to capability asymmetries.
 
 ### 7.1 Capability disclosure
 

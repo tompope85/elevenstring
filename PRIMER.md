@@ -1,13 +1,13 @@
-# PRIMER: AllOtherNothingProtocol (ANO)
+# PRIMER: elevenstring
 
 ## What this is for
 Let us assume you operate in the world with a set of implicit philosophical commitments - about what counts as true, what kinds of things exist, where you draw the line between yourself and others, what makes a decision the right one. These commitments are usually invisible. Until you encounter a framework, person, AI, or domain that doesn't share them. When that happens, you have three usual options: assimilate the other to your framework (the imperialist move), dismiss the other as wrong (the gatekeeping move), or get confused.
-ANO is a fourth option: hold your framework as explicitly as you can or choose to prescribe it, encounter others as legitimately different, and engage with them through structured protocols that preserve sovereignty on both sides.
+elevenstring is a fourth option: hold your framework as explicitly as you can or choose to prescribe it, encounter others as legitimately different, and engage with them through structured protocols that preserve sovereignty on both sides.
 This matters in practice when you're learning a new domain that has its own assumptions; working with someone whose worldview differs from yours; interacting with AI systems whose framings you can't fully verify; navigating regulatory contexts with their own ontologies; tracking how your own positions evolve over time; collaborating across cultures or disciplines; or designing systems that need to coordinate without homogenising.
 
 ## The framework distinguishes three layers of commitment:
 ### The kernel - 
-The minimum machinery any framework needs to be a framework at all. ANO identifies four primitives: distinction (the ability to draw a this/not-this line), iteration-identity (recognising the same operation when it's applied again), perspective (a vantage from which considerations are individuated), and coherence-constraint (the requirement that the framework's statements fit together enough to be statements). These are universal; they're what makes the framework expressible at all.
+The minimum machinery any framework needs to be a framework at all. elevenstring identifies four primitives: distinction (the ability to draw a this/not-this line), iteration-identity (recognising the same operation when it's applied again), perspective (a vantage from which considerations are individuated), and coherence-constraint (the requirement that the framework's statements fit together enough to be statements). These are universal; they're what makes the framework expressible at all.
 ### The modules - 
 Your specific philosophical commitments. What you think about ontology (what kinds of things exist), mereology (how parts and wholes work), truth (what makes something true), agency (who acts), logic (how inference works), and so on. These are loadable - you can hold particular positions, swap or adjust them when warranted, and track how they change.
 ### The framings - 
@@ -35,7 +35,7 @@ The framework updates through observability and the implementation of structured
 - Architectural reviews examine current module commitments and ask whether they're still serving. Quarterly, or as triggered by accumulated friction.
 - Metapraxis reviews start from praxis - from what came up in actual doing - and let praxis push back on the current framework. Particularly useful after immersive engagement with a domain.
 Each review produces records linking to the evidence supporting any module changes. Significant changes get committed as new version snapshots. The framework grows by trace - nothing gets overwritten, evolutions are visible, and any future query along time / space / perspective coordinates can reconstruct why you held what you held when.
-A small example (see [EXAMPLES.md] for further examples)
+A small example (see [EXAMPLES.md](./EXAMPLES.md) for further examples)
 You read a book on Buddhist non-dualism. Your current framework has process ontology, coherence-plus-ownership as a truth criterion, project-oriented agency.
 After meaningful exposure, you produce a relation record. Layer by layer:
 

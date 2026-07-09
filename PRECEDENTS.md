@@ -1,19 +1,19 @@
 # PRECEDENTS
-This document maps the intellectual territory around ANO. How this is organised
+This document maps the intellectual territory around elevenstring. How this is organised
 
 - Direct influences: works the author has substantively read and engaged with. 
 - Encountered via dialogue and secondary sources: ideas engaged with through conversation, secondary references, or summaries but not primary works. 
-- Adjacent work and orientation — works in the same intellectual conversation as ANO, mapping the territory. Default category for unread or lightly-engaged sources.
+- Adjacent work and orientation — works in the same intellectual conversation as elevenstring, mapping the territory. Default category for unread or lightly-engaged sources.
 ## Note on synthesis
-Each of these traditions contributes (potentially or actually) to elements of ANO. The synthesis — integration of recursive meta-systems, pluralist module-loading, the triad as relational typology, operation-primary metaphysics, handshake protocols, trust dimensions, and queryable trace architecture under unified meta-of-meta governance — is what's distinctive to ANO. Coverage of any individual tradition's contribution is left to that tradition's own literature.
+Each of these traditions contributes (potentially or actually) to elements of elevenstring. The synthesis — integration of recursive meta-systems, pluralist module-loading, the triad as relational typology, operation-primary metaphysics, handshake protocols, trust dimensions, and queryable trace architecture under unified meta-of-meta governance — is what's distinctive to elevenstring. Coverage of any individual tradition's contribution is left to that tradition's own literature.
 This document is revisable. As the author engages with sources, entries move from Adjacent to Encountered to Direct influences with appropriately specific attribution. 
 
-Encounters with adjacent work, corrections, and identification of missed precedents are welcome via pull request.
+Encounters with adjacent work, corrections, and identification of missed precedents are welcome via pull request under the Developer Certificate of Origin (see [CONTRIBUTING.md](./CONTRIBUTING.md)).
 
 ## Direct influences
 
 ### Speculative fiction and civilisational imagination
-- Iain M. Banks — The Culture series (1987–2012; Consider Phlebas, The Player of Games, Use of Weapons, Excession, Look to Windward, Surface Detail, The Hydrogen Sonata, and others). Post-scarcity civilisation coordinating through shared protocols rather than central authority; AI Minds as peer agents to biological beings with their own values and agency; Contact and Special Circumstances grappling with the ethics of engagement across radically different civilisations; identity decoupled from substrate (bodies, species, gender all mutable). Direct influence on ANO's multi-agent coordination architecture, AI-human peer-handshake design, ethics of engaging "other" civilisations and frameworks, identity-substrate decoupling, and federated meta-governance.
+- Iain M. Banks — The Culture series (1987–2012; Consider Phlebas, The Player of Games, Use of Weapons, Excession, Look to Windward, Surface Detail, The Hydrogen Sonata, and others). Post-scarcity civilisation coordinating through shared protocols rather than central authority; AI Minds as peer agents to biological beings with their own values and agency; Contact and Special Circumstances grappling with the ethics of engagement across radically different civilisations; identity decoupled from substrate (bodies, species, gender all mutable). Direct influence on elevenstring's multi-agent coordination architecture, AI-human peer-handshake design, ethics of engaging "other" civilisations and frameworks, identity-substrate decoupling, and federated meta-governance.
 ### Recursive systems and meta-systems
 Niklas Luhmann — Social Systems. Autopoietic systems maintained through self-referential operation. In the lineage of the operation-primary view.
 ### Triadic structures
@@ -29,7 +29,7 @@ Niklas Luhmann — Zettelkasten method.
 
 ## Encountered via dialogue and secondary sources
 ### Recursive systems and meta-systems
-- Stafford Beer — Viable System Model (VSM). Recursive viable systems at multiple levels, each maintaining viability through similar structural patterns. In the lineage of ANO's reflexive levels.
+- Stafford Beer — Viable System Model (VSM). Recursive viable systems at multiple levels, each maintaining viability through similar structural patterns. In the lineage of elevenstring's reflexive levels.
 ### Process metaphysics
 - William James — radical empiricism, pluralism.
 ## Philosophy and sociology of science
@@ -105,7 +105,7 @@ Tim Berners-Lee — Web, Semantic Web, Solid project.
 W3C DIDs, Verifiable Credentials. Adjacent to agent profiles and handshake declarations.
 ActivityPub — federated communication protocol.
 Matrix protocol — federated real-time communication.
-Holochain (Arthur Brock, Eric Harris-Braun) — agent-centric distributed architecture. Closest in technical structure to ANO's network mode.
+Holochain (Arthur Brock, Eric Harris-Braun) — agent-centric distributed architecture. Closest in technical structure to elevenstring's network mode.
 IETF / W3C governance models — multi-stakeholder protocol governance.
 
 ## Governance and plurality

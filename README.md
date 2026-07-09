@@ -1,9 +1,9 @@
-# AllOtherNothingProtocol (ANO)
-A meta-framework for inter-agent epistemic-ethical operation under shared protocols. Enables sovereign instances — human, AI, organisational — to coordinate without surrendering their philosophical commitments or pretending to share them when they don't.
+# elevenstring
+A meta-framework for inter-agent epistemic-ethical operation under shared protocols. Enables sovereign instances — human, AI, organisational — to coordinate without surrendering their philosophical commitments or pretending to share them when they don't. (Formerly *AllOtherNothingProtocol*, after its core All / Nothing / Other typology.)
 
 ## What this is
 We operate in the world under implicit (if not explicit) philosophical commitments about what exists, what counts as true, where you draw boundaries, who has agency. These commitments are usually invisible until you encounter a framework, person, AI, domain or even memories that doesn't share them.
-The usual responses are imperialist (assimilate the other), dismissive (reject the other), or confused (no framework for either). ANO is a fourth response: define your framework explicitly, encounter others as legitimately different, engage through structured protocols that preserve sovereignty on both sides.
+The usual responses are imperialist (assimilate the other), dismissive (reject the other), or confused (no framework for either). elevenstring is a fourth response: define your framework explicitly, encounter others as legitimately different, engage through structured protocols that preserve sovereignty on both sides.
 
 ## Architecture in brief
 
@@ -25,15 +25,15 @@ Where to start
 - APPLICATIONS.md — domains of application
 - EXAMPLES.md — worked examples (novice onboarding, advanced practitioner instance, multi-agent handshakes, edge cases)
 - PRECEDENTS.md — intellectual lineage and adjacent work
-- SECURITY.md - ANO's developing security and trust architecture: threat model, trust framework, handshake protections, post-grant countermeasures, and network-level governance.
+- SECURITY.md - elevenstring's developing security and trust architecture: threat model, trust framework, handshake protections, post-grant countermeasures, and network-level governance.
 
 Citation
 See CITATION.cff for canonical citation format.
-[Author Name]. (2026). AllOtherNothingProtocol (ANO): A meta-framework
+Thomas Pope. (2026). elevenstring: A meta-framework
 for inter-agent epistemic-ethical operation. Version 0.1.
-https://github.com/[tompope85]/AllOtherNothingProtocol
+https://github.com/tompope85/elevenstring
 
 License
-Licensed under CC BY-SA 4.0. Derivative works must credit and share-alike.
+Documentation and specification: licensed under CC BY-SA 4.0 (derivative works must credit and share-alike). Software and implementation, when published, will be licensed under AGPL-3.0. See [LICENSING.md](./LICENSING.md).
 Acknowledgments
-The framework has been developed over months of independent thinking, reading, and dialogue. AI assistants have served as interlocutors and elaborators across multiple conversations; the human author has brought forward the conceptual elements, synthesised, and integrated the work. AI assistance is disclosed; conceptual authorship is retained by the human author. Development materials — notes, drafts, and conversation transcripts — are preserved in /development-trace/ as evidence of authorship and as documentation of reasoning.
+The framework has been developed over months of independent thinking, reading, and dialogue. AI assistants have served as interlocutors and elaborators across multiple conversations; the human author has brought forward the conceptual elements, synthesised, and integrated the work. AI assistance is disclosed; conceptual authorship is retained by the human author. Development materials — notes, drafts, and conversation transcripts — are retained by the author as evidence of authorship and documentation of reasoning, available on request.

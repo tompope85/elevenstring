@@ -1,4 +1,4 @@
-# SPEC: AllOtherNothingProtocol (ANO)
+# SPEC: elevenstring
 
 This is the framework specification. For introduction, see [PRIMER.md](./PRIMER.md); for worked examples, see [EXAMPLES.md](./EXAMPLES.md).
 
@@ -343,7 +343,7 @@ Query implementation is environment-dependent (Git log + grep, knowledge-graph q
 
 ### 6.1 Federated architecture
 
-ANO operates as federated meta-cognitive infrastructure when multiple instances interact. Each instance is sovereign at lower layers; all share meta-of-meta protocols.
+elevenstring operates as federated meta-cognitive infrastructure when multiple instances interact. Each instance is sovereign at lower layers; all share meta-of-meta protocols.
 
 ### 6.2 Shared protocols
 
@@ -397,5 +397,5 @@ Extension proposals follow the framework's own logic: extension is itself a type
 
 ---
 
-This specification is itself a version-controlled artifact. Revisions follow the framework's own protocols. Pull requests welcome.
+This specification is itself a version-controlled artifact. Revisions follow the framework's own protocols. Contributions are welcome under the Developer Certificate of Origin — see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
