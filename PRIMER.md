@@ -39,6 +39,6 @@ You don't have to adopt the position or reject it. You keep a clear record of it
 The rest of the machine lives in the specification: the kernel's four primitives, the modules and framings you configure, the handshake protocol for meeting other agents, the review cycles, and the trace that records every change.
 
 - **SPEC.md**: the full specification
-- **EXAMPLES.md**: worked examples, from novice onboarding to multi-agent handshakes
+- **EXAMPLES.md**: worked examples
 - **PRECEDENTS.md**: the lineage, and the neighbours
 - **APPLICATIONS.md**: where it's used
