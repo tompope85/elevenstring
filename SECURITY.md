@@ -8,16 +8,16 @@ elevenstring operates as inter-agent epistemic-ethical infrastructure. Its threa
 
 ### 1.1 Primary threats
 
-- **Information leakage** — handshakes or interactions revealing more than intended
-- **Trust manipulation** — counterparties exploiting trust mechanisms to gain unwarranted access
-- **Power concentration** — instances accumulating disproportionate influence or access
-- **Overstep** — counterparties using granted access beyond agreed scope
-- **Identity / framework appropriation** — bad actors representing themselves with framings they don't hold
-- **Aggregation attacks** — combining permitted disclosures into non-permitted knowledge
-- **Side-channel inference** — learning from patterns or metadata not explicitly disclosed
-- **Coherence drift exploitation** — gradually shifting representations to manipulate trust
-- **Protocol fragmentation** — incompatible implementations dividing the network
-- **Capability asymmetry exploitation** — more-capable agents leveraging asymmetry against less-capable ones
+- **Information leakage**: handshakes or interactions revealing more than intended
+- **Trust manipulation**: counterparties exploiting trust mechanisms to gain unwarranted access
+- **Power concentration**: instances accumulating disproportionate influence or access
+- **Overstep**: counterparties using granted access beyond agreed scope
+- **Identity / framework appropriation**: bad actors representing themselves with framings that aren't theirs
+- **Aggregation attacks**: combining permitted disclosures into non-permitted knowledge
+- **Side-channel inference**: learning from patterns or metadata not explicitly disclosed
+- **Coherence drift exploitation**: gradually shifting representations to manipulate trust
+- **Protocol fragmentation**: incompatible implementations dividing the network
+- **Capability asymmetry exploitation**: more-capable agents leveraging asymmetry against less-capable ones
 
 ### 1.2 Out-of-scope
 
@@ -30,22 +30,22 @@ Physical device security; cryptographic protocol implementation details (deferre
 Trust between agents is not binary. The framework structures it as a multi-dimensional typed assessment, each dimension independently updatable.
 
 Standard dimensions:
-- **reliability** — consistency of behaviour over time
-- **honesty** — alignment between declared positions and actual behaviour (where verifiable)
-- **capability** — ability to do what is claimed
-- **benevolence** — intent toward the agent and others
-- **provenance** — track record across encounters
+- **reliability**: consistency of behaviour over time
+- **honesty**: alignment between declared positions and actual behaviour (where verifiable)
+- **capability**: ability to do what is claimed
+- **benevolence**: intent toward the agent and others
+- **provenance**: track record across encounters
 
 Additional dimensions may be added: *competence* (domain-specific capability), *transparency* (willingness to disclose), *accountability* (responsiveness to feedback), *robustness* (stability under stress).
 
 ### 2.2 Trust typing
 
 Each dimension is typed with:
-- **value** — current assessment (high / medium / low / unknown / contested)
-- **confidence** — how well-supported the assessment is
-- **provenance** — what encounters or evidence support the current value
-- **last updated** — when the assessment was last revised
-- **trajectory** — direction of recent change (improving / stable / degrading)
+- **value**: current assessment (high / medium / low / unknown / contested)
+- **confidence**: how well-supported the assessment is
+- **provenance**: what encounters or evidence support the current value
+- **last updated**: when the assessment was last revised
+- **trajectory**: direction of recent change (improving / stable / degrading)
 
 ### 2.3 Trust calibration over time
 
@@ -57,9 +57,9 @@ Calibration loop: predict counterparty behaviour based on current trust profile;
 
 Agent profiles disclosed at handshake should include only what is necessary. Profiles partition by access tier:
 
-- **Public tier** — declared visibly to any counterparty
-- **Counterparty-specific tier** — disclosed only to authenticated specific parties
-- **Reserved tier** — never disclosed
+- **Public tier**: declared visibly to any counterparty
+- **Counterparty-specific tier**: disclosed only to authenticated specific parties
+- **Reserved tier**: never disclosed
 
 ```yaml
 agent-id: [identifier]
@@ -79,7 +79,7 @@ disclosure-budget: [tokens / time-window / data-scope]
 
 ### 3.2 Disclosure budgets
 
-Each handshake declares a *disclosure budget* — the maximum information any party agrees to expose. Failed handshakes do not extend the budget; subsequent attempts require new handshake initiation. Counterparty-specific tier disclosures are tagged with an *information-cost* metric; cumulative disclosures must remain within budget.
+Each handshake declares a *disclosure budget*, the maximum information any party agrees to expose. Failed handshakes do not extend the budget; subsequent attempts require new handshake initiation. Counterparty-specific tier disclosures are tagged with an *information-cost* metric; cumulative disclosures must remain within budget.
 
 ### 3.3 Layer-by-layer typing
 
@@ -105,12 +105,12 @@ Handshake authentication uses standard cryptographic primitives (defer to W3C DI
 
 ### 4.1 Failure types
 
-- **Incompatibility** — profiles can't be reconciled
-- **Contradiction** — declared positions and observed behaviour diverge
-- **Insufficient disclosure** — one party can't engage without information the other won't share
-- **Trust threshold** — counterparty's trust profile fails minimum for proposed engagement
-- **Authentication failure** — counterparty identity cannot be verified
-- **Protocol error** — handshake protocol itself fails (technical)
+- **Incompatibility**: profiles can't be reconciled
+- **Contradiction**: declared positions and observed behaviour diverge
+- **Insufficient disclosure**: one party can't engage without information the other won't share
+- **Trust threshold**: counterparty's trust profile fails minimum for proposed engagement
+- **Authentication failure**: counterparty identity cannot be verified
+- **Protocol error**: handshake protocol itself fails (technical)
 
 ### 4.2 Mediated meta-evaluation
 
@@ -231,11 +231,11 @@ Audit access is itself granted via handshake protocol. Auditors receive scoped c
 
 ### 8.3 Regulatory compliance
 
-When regulatory overlays are loaded, the framework's audit substrate satisfies compliance requirements natively. GDPR data-subject access requests, AI Act risk-management documentation, professional ethics reviews — all query the same underlying structure.
+When regulatory overlays are loaded, the framework's audit substrate satisfies compliance requirements natively. GDPR data-subject access requests, AI Act risk-management documentation, and professional ethics reviews all query the same underlying structure.
 
 ### 8.4 Honest residual
 
-Some risk is irreducible. The framework provides structural protections, not guarantees. Sophisticated bad actors, novel attacks, capability asymmetries no protocol fully addresses — these remain. The framework's contribution is making the residual visible and bounded rather than pretending it doesn't exist.
+Some risk is irreducible. The framework provides structural protections, not guarantees. Sophisticated bad actors, novel attacks, capability asymmetries no protocol fully addresses. These remain. The framework's contribution is making the residual visible and bounded rather than pretending it doesn't exist.
 
 ---
 
