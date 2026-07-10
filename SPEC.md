@@ -384,7 +384,7 @@ Extension proposals follow the framework's own logic: an extension is itself typ
 | module slot | a configurable position in the framework |
 | commitment | what is currently loaded in a module slot |
 | framing | an agent's whole belief-set, stated and unstated; what an instance versions |
-| lens | an evaluative view applied across module contents |
+| lens | an evaluative view applied across module commitments |
 | overlay | context-specific working configuration (domain / regulatory / cultural) |
 | handshake | structured exchange protocol between agent instances |
 | trust dimension | one axis of a multi-dimensional trust profile |
