@@ -8,10 +8,10 @@ This is the framework specification. For introduction, see [PRIMER.md](./PRIMER.
 
 The kernel is the load-bearing minimum any instance must honour. It contains four primitives, identical across all instances:
 
-- **distinction** — the primitive operation of cutting this from not-this. Without it, nothing is nameable.
-- **iteration-identity** — the criterion by which a re-application of an operation counts as the same operation rather than a new one. Without it, recursion collapses.
-- **perspective** — the vantage from which considerations are individuated. Without it, "from where" has no meaning.
-- **coherence-constraint** — the minimum consistency required for the framework's statements to be statements at all. Without it, the framework cannot be uttered.
+- **distinction**: the primitive operation of cutting this from not-this. Without it, nothing is nameable.
+- **iteration-identity**: the criterion by which a re-application of an operation counts as the same operation rather than a new one. Without it, recursion collapses.
+- **perspective**: the vantage from which considerations are individuated. Without it, "from where" has no meaning.
+- **coherence-constraint**: the minimum consistency required for the framework's statements to be statements at all. Without it, the framework cannot be uttered.
 
 These are not assertions about reality. They are the operational requirements for the framework to be expressible and used.
 
@@ -19,9 +19,9 @@ These are not assertions about reality. They are the operational requirements fo
 
 Three reference markers used to type any relation between an agent and what they encounter:
 
-- **All** — the encountered thing maps onto the framework as a configuration of its commitments. Subsumable.
-- **Other** — the encountered thing is irreducibly different but remains in relation. Engagement proceeds with awareness of difference.
-- **Nothing** — no relation is possible in this transfer. Void.
+- **All**: the encountered thing maps onto the framework as a configuration of its commitments. Subsumable.
+- **Other**: the encountered thing is irreducibly different but remains in relation. Engagement proceeds with awareness of difference.
+- **Nothing**: no relation is possible in this transfer. Void.
 
 The triad lives at the meta-of-meta level as referential markers, not as relata. When a relation is typed "nothing," it points to the canonical Nothing marker; it does not relate to Nothing. The triad does not admit a fourth type; the catuṣkoṭi's fourth corner is declined because additional types generate regress.
 
@@ -29,23 +29,23 @@ Typings are epistemic and pragmatic, not alethic. They are considerations, not m
 
 ### 1.3 Operations
 
-- **distinguish** — apply the distinction primitive
-- **iterate** — apply an operation again, retaining iteration-identity
-- **perspectivise** — establish a vantage
-- **encounter** — engage with something outside current frame
-- **type** — apply all/nothing/other to a consideration
-- **handshake** — negotiate inter-instance interaction
-- **review** — examine the framework (architectural or metapraxis)
-- **commit** — snapshot a version
+- **distinguish**: apply the distinction primitive
+- **iterate**: apply an operation again, retaining iteration-identity
+- **perspectivise**: establish a vantage
+- **encounter**: engage with something outside current frame
+- **type**: apply all/nothing/other to a consideration
+- **handshake**: negotiate inter-instance interaction
+- **review**: examine the framework (architectural or metapraxis)
+- **commit**: snapshot a version
 
 ### 1.4 Meta-principles
 
-- **pluralism** — this instance is one self-consistent option, not the universal meta-frame.
-- **revisability** — all typings, commitments, and framings are provisional and updatable.
-- **operation-primary** — the framework is the ongoing recursive operation, not a static structure.
-- **relational mastery** — the framework's reach is its capacity to type relations, not to subsume content.
-- **triad-as-consideration** — all/nothing/other are epistemic typings, not alethic claims.
-- **coherence-of-representation** — at meta-of-meta, coherent representation of other agents is the respect criterion.
+- **pluralism**: this instance is one self-consistent option, not the universal meta-frame.
+- **revisability**: all typings, commitments, and framings are provisional and updatable.
+- **operation-primary**: the framework is the ongoing recursive operation, not a static structure.
+- **relational mastery**: the framework's reach is its capacity to type relations, not to subsume content.
+- **triad-as-consideration**: all/nothing/other are epistemic typings, not alethic claims.
+- **coherence-of-representation**: at meta-of-meta, coherent representation of other agents is the respect criterion.
 
 ## 2. Architectural layers
 
@@ -53,19 +53,19 @@ Typings are epistemic and pragmatic, not alethic. They are considerations, not m
 
 A *module slot* is a configurable position. Each accepts one *commitment* at a time; alternatives are available as inactive options.
 
-- **ontology** — substance / process / relational / nominalist / pluralist...
-- **mereology** — classical / fuzzy / lived-boundary / mereotopological...
-- **truth-criterion** — correspondence / coherence / pragmatic / deflationary / coherence-plus-ownership...
-- **agency** — individual / distributed / project-oriented / effortless / collective...
-- **logic** — classical / intuitionistic / paraconsistent / fuzzy / dialetheist...
-- **temporality** — linear / cyclical / processual / thick-present / longue-durée / blockworld...
-- **causation** — efficient / formal / final / probabilistic / downward / mixed...
-- **modality** — necessary / contingent / dispositional / Lewisian / Aristotelian...
-- **narrative** — propositional / episodic / arc / fragmentary...
-- **affect** — noise / data / motivation / constitutive...
-- **embodiment** — disembodied / embodied / extended / distributed...
-- **semiotics** — Saussurean dyadic / Peircean triadic / post-structuralist...
-- **metacognition** — active / passive / scheduled / continuous...
+- **ontology**: substance / process / relational / nominalist / pluralist...
+- **mereology**: classical / fuzzy / lived-boundary / mereotopological...
+- **truth-criterion**: correspondence / coherence / pragmatic / deflationary / coherence-plus-ownership...
+- **agency**: individual / distributed / project-oriented / effortless / collective...
+- **logic**: classical / intuitionistic / paraconsistent / fuzzy / dialetheist...
+- **temporality**: linear / cyclical / processual / thick-present / longue-durée / blockworld...
+- **causation**: efficient / formal / final / probabilistic / downward / mixed...
+- **modality**: necessary / contingent / dispositional / Lewisian / Aristotelian...
+- **narrative**: propositional / episodic / arc / fragmentary...
+- **affect**: noise / data / motivation / constitutive...
+- **embodiment**: disembodied / embodied / extended / distributed...
+- **semiotics**: Saussurean dyadic / Peircean triadic / post-structuralist...
+- **metacognition**: active / passive / scheduled / continuous...
 
 New slots can be added by extension.
 
@@ -73,27 +73,27 @@ New slots can be added by extension.
 
 Evaluative lenses applied across module commitments. Multiple framings can be active simultaneously; they may be rotated, stacked, or weighted.
 
-- **coherence** — do the parts fit together?
-- **correspondence** — does this match the world?
-- **pragmatic** — does this work toward goals?
-- **generativity** — does this produce new possibilities?
-- **power** — what does this enable or constrain?
-- **care** — to whom or what is this answerable?
-- **viability** — does this sustain itself?
-- **parsimony** — is this minimal?
-- **disclosure** — what does this reveal or hide?
-- **existentialist** — does this own its situatedness?
-- **sense-based-geometry** — does this respect gradient and gestalt structure?
-- **aesthetic** — is this fitting or elegant?
-- **ethical** — what should be?
+- **coherence**: do the parts fit together?
+- **correspondence**: does this match the world?
+- **pragmatic**: does this work toward goals?
+- **generativity**: does this produce new possibilities?
+- **power**: what does this enable or constrain?
+- **care**: to whom or what is this answerable?
+- **viability**: does this sustain itself?
+- **parsimony**: is this minimal?
+- **disclosure**: what does this reveal or hide?
+- **existentialist**: does this own its situatedness?
+- **sense-based-geometry**: does this respect gradient and gestalt structure?
+- **aesthetic**: is this fitting or elegant?
+- **ethical**: what should be?
 
 ### 2.3 Overlays
 
 Context-specific configurations loaded for particular domains, jurisdictions, or cultures. Overlays do not replace active commitments; they sit alongside as working vocabularies.
 
-- **Domain overlays** — medical, software-engineering, legal, ML / data-science, consulting. Each declares the domain's working ontology, mereology, agency model, and translation operations to the agent's meta-framework.
-- **Regulatory overlays** — GDPR, HIPAA, EU AI Act, regional privacy regimes, professional codes. Each declares jurisdictional scope, trigger conditions, required and prohibited behaviours, audit requirements.
-- **Cultural overlays** — linguistic, traditional, disciplinary. Handle vocabulary, framings, and translation for cross-cultural engagement.
+- **Domain overlays**: medical, software-engineering, legal, ML / data-science, consulting. Each declares the domain's working ontology, mereology, agency model, and translation operations to the agent's meta-framework.
+- **Regulatory overlays**: GDPR, HIPAA, EU AI Act, regional privacy regimes, professional codes. Each declares jurisdictional scope, trigger conditions, required and prohibited behaviours, audit requirements.
+- **Cultural overlays**: linguistic, traditional, disciplinary. Handle vocabulary, framings, and translation for cross-cultural engagement.
 
 Multi-loaded operation is supported. Multiple overlays simultaneously surface conflicts as typed tensions requiring explicit resolution.
 
@@ -122,10 +122,10 @@ my-OS/
 
 The *relational atlas* is the agent's accumulated record of typed encounters. Organised by aggregate typing:
 
-- `/relations/alls/` — encounters typed as subsumable configurations
-- `/relations/others/` — encounters typed as irreducibly different
-- `/relations/nothings/` — encounters typed as void
-- `/relations/mixed/` — encounters with layered typings
+- `/relations/alls/`: encounters typed as subsumable configurations
+- `/relations/others/`: encounters typed as irreducibly different
+- `/relations/nothings/`: encounters typed as void
+- `/relations/mixed/`: encounters with layered typings
 
 Each relation record contains: object, perspective coordinates, per-layer typings with confidence and rationale, aggregate typing, links to other relations, next-steps.
 
@@ -133,21 +133,21 @@ Each relation record contains: object, perspective coordinates, per-layer typing
 
 The structured exchange protocol between agent instances. Recorded under:
 
-- `/handshakes/humans/` — typed relations with human counterparties
-- `/handshakes/AIs/` — typed relations with AI agents
-- `/handshakes/digital/` — typed relations with digital systems
-- `/handshakes/non-human/` — typed relations with animals, ecosystems, material objects
-- `/handshakes/orgs/` — typed relations with organisations
+- `/handshakes/humans/`: typed relations with human counterparties
+- `/handshakes/AIs/`: typed relations with AI agents
+- `/handshakes/digital/`: typed relations with digital systems
+- `/handshakes/non-human/`: typed relations with animals, ecosystems, material objects
+- `/handshakes/orgs/`: typed relations with organisations
 
 ### 2.7 Trust
 
 A multi-dimensional typed assessment of a counterparty. Not binary; structured by dimension and updated through encounter.
 
-- **reliability** — consistency of behaviour over time
-- **honesty** — alignment between declared positions and actual ones (where verifiable)
-- **capability** — ability to do what is claimed
-- **benevolence** — intent toward the agent and others
-- **provenance** — track record across encounters
+- **reliability**: consistency of behaviour over time
+- **honesty**: alignment between declared positions and actual ones (where verifiable)
+- **capability**: ability to do what is claimed
+- **benevolence**: intent toward the agent and others
+- **provenance**: track record across encounters
 
 Each dimension is independently updatable, with traceable rationale.
 
@@ -181,7 +181,7 @@ Each dimension is independently updatable, with traceable rationale.
 2. Declare framing under which review is conducted.
 3. Examine each active module: is it serving? Does evidence (from relations, friction journal, recent encounters) support it?
 4. Identify revision candidates.
-5. Decide: keep, modify, replace, hold provisional.
+5. Decide: keep, modify, replace, or mark provisional.
 6. Commit changes; if significant, snapshot as new instance version.
 
 Triggers: scheduled (typically quarterly), N encounters typed, friction-note pattern, major transition.
@@ -189,9 +189,9 @@ Triggers: scheduled (typically quarterly), N encounters typed, friction-note pat
 ### 3.4 Metapraxis review
 
 1. Open `/reviews/metapraxis/{date}-{topic}.md`.
-2. *Phase 1 — bracketing*: suspend current module vocabulary; attend to what came up in the doing; write freeform.
-3. *Phase 2 — articulation*: re-engage framework vocabulary; map experiential content to module slots; identify where current modules accommodate and where they strain.
-4. *Phase 3 — integration*: decide framework changes and commit; link review to triggering experience and resulting changes.
+2. *Phase 1, bracketing*: suspend current module vocabulary; attend to what came up in the doing; write freeform.
+3. *Phase 2, articulation*: re-engage framework vocabulary; map experiential content to module slots; identify where current modules accommodate and where they strain.
+4. *Phase 3, integration*: decide framework changes and commit; link review to triggering experience and resulting changes.
 
 Triggers: after immersive engagement with a domain, sustained friction, significant encounter, metapraxis-flag tag in daily capture.
 
@@ -202,10 +202,10 @@ When incoherence surfaces:
 - **Self-other representation mismatch** → re-handshake with updated typings, new record linking to prior.
 - **Word-deed gap** → align action with claim or revise claim to match practice.
 - **Framing conflict** → surface the difference; seek shared ground or proceed with awareness of divergence.
-- **Schema imposition** → load the appropriate overlay or explicitly hold as 'other'.
+- **Schema imposition** → load the appropriate overlay or explicitly type it as other.
 - **Goal-frame mismatch** → surface divergent endpoints; choose convergence or typed coexistence.
 
-Resolution outcomes are themselves typed (resolved / partial / unresolvable-explicitly-held) and recorded.
+Resolution outcomes are themselves typed (resolved / partial / unresolvable-explicitly-typed) and recorded.
 
 ### 3.6 Security and trust protocols
 
@@ -326,9 +326,9 @@ summary: [what changed and why]
 
 Every record carries coordinates along three axes:
 
-- **time** — date, OS version, version history, position in trace
-- **space** — file location, layer (kernel / module / framing / overlay / relation / handshake / review / instance)
-- **perspective** — active framings, active modules, agent identity, provisional flags
+- **time**: date, OS version, version history, position in trace
+- **space**: file location, layer (kernel / module / framing / overlay / relation / handshake / review / instance)
+- **perspective**: active framings, active modules, agent identity, provisional flags
 
 ### 5.2 Query patterns
 
@@ -368,7 +368,7 @@ Instances with different module commitments interoperate via the handshake proto
 
 The framework supports extension without modification of the kernel. New module slots, framings, overlays, agent profile schemas, handshake protocols, and operations can be added as extensions. The kernel remains stable; the architecture grows.
 
-Extension proposals follow the framework's own logic: extension is itself a typed move with provenance, evidence, and impact analysis.
+Extension proposals follow the framework's own logic: an extension is itself typed, with provenance, evidence, and impact analysis.
 
 ## 8. Vocabulary
 
@@ -397,5 +397,5 @@ Extension proposals follow the framework's own logic: extension is itself a type
 
 ---
 
-This specification is itself a version-controlled artifact. Revisions follow the framework's own protocols. Contributions are welcome under the Developer Certificate of Origin — see [CONTRIBUTING.md](./CONTRIBUTING.md).
+This specification is itself a version-controlled artifact. Revisions follow the framework's own protocols. Contributions are welcome under the Developer Certificate of Origin; see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
