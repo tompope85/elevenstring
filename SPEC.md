@@ -41,7 +41,7 @@ Typings are epistemic and pragmatic, not alethic. They are considerations, not m
 ### 1.4 Meta-principles
 
 - **pluralism**: this instance is one self-consistent option, not the universal meta-frame.
-- **revisability**: all typings, commitments, and framings are provisional and updatable.
+- **revisability**: all typings, commitments, and lenses are provisional and updatable.
 - **operation-primary**: the framework is the ongoing recursive operation, not a static structure.
 - **relational mastery**: the framework's reach is its capacity to type relations, not to subsume content.
 - **triad-as-consideration**: all/nothing/other are epistemic typings, not alethic claims.
@@ -69,9 +69,9 @@ A *module slot* is a configurable position. Each accepts one *commitment* at a t
 
 New slots can be added by extension.
 
-### 2.2 Framings
+### 2.2 Lenses
 
-Evaluative lenses applied across module commitments. Multiple framings can be active simultaneously; they may be rotated, stacked, or weighted.
+Evaluative lenses applied across module commitments. More than one can be active at a time; they may be rotated, stacked, or weighted.
 
 - **coherence**: do the parts fit together?
 - **correspondence**: does this match the world?
@@ -93,19 +93,19 @@ Context-specific configurations loaded for particular domains, jurisdictions, or
 
 - **Domain overlays**: medical, software-engineering, legal, ML / data-science, consulting. Each declares the domain's working ontology, mereology, agency model, and translation operations to the agent's meta-framework.
 - **Regulatory overlays**: GDPR, HIPAA, EU AI Act, regional privacy regimes, professional codes. Each declares jurisdictional scope, trigger conditions, required and prohibited behaviours, audit requirements.
-- **Cultural overlays**: linguistic, traditional, disciplinary. Handle vocabulary, framings, and translation for cross-cultural engagement.
+- **Cultural overlays**: linguistic, traditional, disciplinary. Handle vocabulary, lenses, and translation for cross-cultural engagement.
 
 Multi-loaded operation is supported. Multiple overlays simultaneously surface conflicts as typed tensions requiring explicit resolution.
 
 ### 2.4 Instances
 
-An *instance* is a versioned configuration of the framework: kernel + active modules + active framings + active overlays + meta-principles at a point in time. Instances are committed via the version protocol.
+An *instance* is a versioned configuration of the framework: kernel + active modules + active lenses + active overlays + meta-principles at a point in time. Instances are committed via the version protocol.
 
 ```
 my-OS/
 ├── kernel/
 ├── modules/
-├── framings/
+├── lenses/
 ├── overlays/
 ├── relations/
 ├── handshakes/
@@ -156,7 +156,7 @@ Each dimension is independently updatable, with traceable rationale.
 ### 3.1 Encounter typing
 
 1. Encounter trigger: agent meaningfully engages with material outside current frame.
-2. Pre-encounter note (recommended): active modules and framings recorded.
+2. Pre-encounter note (recommended): active modules and lenses recorded.
 3. Engagement: read, study, work with, or experience the material.
 4. Initial typing pass: per active module, type the material's stance as all / nothing / other with rationale.
 5. Aggregate typing: overall typing based on per-layer pattern.
@@ -178,7 +178,7 @@ Each dimension is independently updatable, with traceable rationale.
 ### 3.3 Architectural review
 
 1. Open `/reviews/architectural/{date}-{topic}.md`.
-2. Declare framing under which review is conducted.
+2. Declare the lens under which the review is conducted.
 3. Examine each active module: is it serving? Does evidence (from relations, friction journal, recent encounters) support it?
 4. Identify revision candidates.
 5. Decide: keep, modify, replace, or mark provisional.
@@ -201,7 +201,7 @@ When incoherence surfaces:
 
 - **Self-other representation mismatch** → re-handshake with updated typings, new record linking to prior.
 - **Word-deed gap** → align action with claim or revise claim to match practice.
-- **Framing conflict** → surface the difference; seek shared ground or proceed with awareness of divergence.
+- **Lens conflict** → surface the difference; seek shared ground or proceed with awareness of divergence.
 - **Schema imposition** → load the appropriate overlay or explicitly type it as other.
 - **Goal-frame mismatch** → surface divergent endpoints; choose convergence or typed coexistence.
 
@@ -232,7 +232,7 @@ type: relation | handshake | review | instance | commitment
 created: YYYY-MM-DD
 os-version: vN.M
 perspective:
-  framings: [framings active at creation]
+  lenses: [lenses active at creation]
   modules: [modules active at creation]
 provenance: [studied / experienced / dialogue / inferred / ...]
 links: [related records]
@@ -292,7 +292,7 @@ trigger: [what initiated]
 ---
 
 ## Phase 1
-[bracketing / framing-selection]
+[bracketing / lens-selection]
 
 ## Phase 2
 [thinking / module-examination]
@@ -313,7 +313,7 @@ summary: [what changed and why]
 ---
 
 ## Active modules
-## Active framings
+## Active lenses
 ## Active overlays
 ## Meta-principles
 ## Coordinates
@@ -327,15 +327,15 @@ summary: [what changed and why]
 Every record carries coordinates along three axes:
 
 - **time**: date, OS version, version history, position in trace
-- **space**: file location, layer (kernel / module / framing / overlay / relation / handshake / review / instance)
-- **perspective**: active framings, active modules, agent identity, provisional flags
+- **space**: file location, layer (kernel / module / lens / overlay / relation / handshake / review / instance)
+- **perspective**: active lenses, active modules, agent identity, provisional flags
 
 ### 5.2 Query patterns
 
 - *temporal*: "what was X like at version v1.4?"
 - *spatial*: "all typings of frameworks at module-ontology layer"
-- *perspectival*: "all relations typed under coherence framing"
-- *combined*: "how has my consideration of X evolved across versions, under different framings?"
+- *perspectival*: "all relations typed under the coherence lens"
+- *combined*: "how has my consideration of X evolved across versions, under different lenses?"
 
 Query implementation is environment-dependent (Git log + grep, knowledge-graph query, SPARQL) but coordinate structure is invariant.
 
@@ -366,7 +366,7 @@ Instances with different module commitments interoperate via the handshake proto
 
 ## 7. Extensibility
 
-The framework supports extension without modification of the kernel. New module slots, framings, overlays, agent profile schemas, handshake protocols, and operations can be added as extensions. The kernel remains stable; the architecture grows.
+The framework supports extension without modification of the kernel. New module slots, lenses, overlays, agent profile schemas, handshake protocols, and operations can be added as extensions. The kernel remains stable; the architecture grows.
 
 Extension proposals follow the framework's own logic: an extension is itself typed, with provenance, evidence, and impact analysis.
 
@@ -383,7 +383,8 @@ Extension proposals follow the framework's own logic: an extension is itself typ
 | consideration | the unit being typed |
 | module slot | a configurable position in the framework |
 | commitment | what is currently loaded in a module slot |
-| framing | evaluative lens applied across module contents |
+| framing | an agent's whole belief-set, stated and unstated; what an instance versions |
+| lens | an evaluative view applied across module contents |
 | overlay | context-specific working configuration (domain / regulatory / cultural) |
 | handshake | structured exchange protocol between agent instances |
 | trust dimension | one axis of a multi-dimensional trust profile |

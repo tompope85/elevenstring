@@ -38,7 +38,7 @@ Corrections and identification of missed precedents are welcome via pull request
 ### Embodied and extended cognition
 
 - James Gibson. Affordance theory.
-- Peter Gärdenfors, *Conceptual Spaces*. Adjacent to the sense-based-geometry framing.
+- Peter Gärdenfors, *Conceptual Spaces*. Adjacent to the sense-based-geometry lens.
 
 ### Personal knowledge management and tools for thought
 
@@ -73,7 +73,7 @@ Corrections and identification of missed precedents are welcome via pull request
 
 ### Pluralist and multi-paradigm thinking
 
-- John Mingers. Multimethodology: loading different methodological paradigms in different contexts. In the lineage of loadable framings.
+- John Mingers. Multimethodology: loading different methodological paradigms in different contexts. In the lineage of loadable lenses.
 - Gibson Burrell & Gareth Morgan. Sociological paradigms: multiple incommensurable paradigms in organisational research.
 - Isaiah Berlin. Value pluralism: plural goods irreducible to a common metric.
 - Stuart Hampshire, *Justice is Conflict*. Moral pluralism.

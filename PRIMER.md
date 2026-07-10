@@ -36,7 +36,7 @@ You read a book on Buddhist non-dualism. Your current framing runs a process ont
 You don't have to adopt the position or reject it. You keep a clear record of it, typed and linked to your other Buddhist-philosophy encounters, and you carry on aware of the difference. Take up meditation later and you can revisit it, re-typing from lived experience rather than reading, in a new record that points back to this one.
 
 ## Where to go next
-The rest of the machine lives in the specification: the kernel's four primitives, the modules and framings you configure, the handshake protocol for meeting other agents, the review cycles, and the trace that records every change.
+The rest of the machine lives in the specification: the kernel's four primitives, the modules and lenses you configure, the handshake protocol for meeting other agents, the review cycles, and the trace that records every change.
 
 - **SPEC.md**: the full specification
 - **EXAMPLES.md**: worked examples

@@ -4,15 +4,15 @@ elevenstring is general infrastructure for inter-agent epistemic-ethical operati
 
 ## Personal cognitive infrastructure
 
-A personal operating system for reflective practice. The kernel, modules, framings, relational atlas and version-controlled instances give you a structured way to make implicit commitments explicit, track how your positions evolve, encounter new frameworks without forced assimilation, run periodic architectural and metapraxis reviews, and keep a queryable history of your experience and development across time, place and interactions. Scales from novice (provisional defaults, friction-driven discovery) to advanced practitioner (rich module configuration, multiple active framings, dense relational atlas).
+A personal operating system for reflective practice. The kernel, modules, lenses, relational atlas and version-controlled instances give you a structured way to make implicit commitments explicit, track how your positions evolve, encounter new frameworks without forced assimilation, run periodic architectural and metapraxis reviews, and keep a queryable history of your experience and development across time, place and interactions. Scales from novice (provisional defaults, friction-driven discovery) to advanced practitioner (rich module configuration, multiple active lenses, dense relational atlas).
 
 ## AI-human and inter-AI interaction
 
-Structured profiles let AIs and humans handshake with declared capabilities, constraints, framings, and trust dimensions, rather than treating each other as black boxes or generic users. The framework supports human oversight of AI through queryable traces, inter-AI coordination across providers without forced homogeneity, AI accountability via meta-of-meta coherence tracking, and trust calibrated as multi-dimensional and updatable rather than binary. Relevant infrastructure for AI safety and AI governance work.
+Structured profiles let AIs and humans handshake with declared capabilities, constraints, lenses, and trust dimensions, rather than treating each other as black boxes or generic users. The framework supports human oversight of AI through queryable traces, inter-AI coordination across providers without forced homogeneity, AI accountability via meta-of-meta coherence tracking, and trust calibrated as multi-dimensional and updatable rather than binary. Relevant infrastructure for AI safety and AI governance work.
 
 ## Multi-agent coordination
 
-When humans, AIs, and organisational agents need to coordinate under different philosophical commitments and different goal-framings, the handshake protocol plus all/nothing/other typing enables sovereignty plus interoperability. Used for team and organisational design (collective instances with member-instance interfaces), cross-functional alignment (making implicit framings explicit), and federated coordination without central control.
+When humans, AIs, and organisational agents need to coordinate under different philosophical commitments and differently framed goals, the handshake protocol plus all/nothing/other typing enables sovereignty plus interoperability. Used for team and organisational design (collective instances with member-instance interfaces), cross-functional alignment (making implicit framings explicit), and federated coordination without central control.
 
 ## Cross-cultural and cross-disciplinary work
 
@@ -36,4 +36,4 @@ At the network level, elevenstring operates as federated meta-cognitive infrastr
 
 ## Extensibility
 
-New applications come by extension, not by modification of the kernel. New modules, framings, overlays, agent profiles, and handshake protocols can be added without breaking existing instances. The kernel remains stable; the architecture grows.
+New applications come by extension, not by modification of the kernel. New modules, lenses, overlays, agent profiles, and handshake protocols can be added without breaking existing instances. The kernel remains stable; the architecture grows.

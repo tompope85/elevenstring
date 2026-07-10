@@ -10,7 +10,7 @@ We all operate under philosophical commitments we rarely examine, and they surfa
 
 - **Kernel** (invariant): distinction, iteration-identity, perspective, coherence-constraint. The minimum machinery any framing needs to be expressible.
 - **Modules** (loadable): your specific commitments. Ontology, mereology, truth-criterion, agency, logic, temporality, and others. Configurable, versioned, revisable.
-- **Framings** (loadable): evaluative lenses applied across modules. Coherence, pragmatic, care, existentialist, sense-based-geometry, and others.
+- **Lenses** (loadable): evaluative views applied across modules. Coherence, pragmatic, care, existentialist, sense-based-geometry, and others.
 - **The triad** (typology): All / Nothing / Other, for typing any relation between agents and what they encounter.
 - **Handshakes** (protocol): structured inter-agent interaction with declared profiles, capabilities, constraints, and trust dimensions.
 - **Coordinates**: time / space / perspective, for querying any record.

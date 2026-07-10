@@ -69,7 +69,7 @@ public-tier:
   basic-constraints: [...]
 counterparty-tier:
   active-modules: [...]
-  active-framings: [...]
+  active-lenses: [...]
   active-overlays: [...]
   trust-profile-summary: [...]
 reserved-tier:
@@ -201,7 +201,7 @@ AI agents in elevenstring present specific security considerations due to capabi
 
 ### 7.1 Capability disclosure
 
-AI agents publish capability declarations humans can audit: memory persistence; pattern-recognition capacity; inference and aggregation capabilities; training context and version; active framings and known biases.
+AI agents publish capability declarations humans can audit: memory persistence; pattern-recognition capacity; inference and aggregation capabilities; training context and version; active lenses and known biases.
 
 ### 7.2 Transparency reports
 
