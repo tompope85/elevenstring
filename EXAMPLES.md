@@ -2,21 +2,21 @@
 
 Worked examples of the framework in use. One is written up so far; novice onboarding, an advanced practitioner instance, and multi-agent handshakes are planned.
 
-## The structural realist and the ghost
+## The sceptic and the ghost
 
-R. is a structural realist: materialist ontology, correspondence truth criterion, classical logic. Instance v3.2, stable for years. One night, alone in an old house, R. sees a translucent figure, fixed in place for several seconds. The temperature drops 8°C, caught on a thermometer. The next morning R.'s partner, who slept upstairs, describes the same figure from a different angle. Weeks later a contractor mentions seeing "something" in the same spot.
+R. doesn't believe in anything beyond the physical world, and won't call a claim true unless the evidence backs it. That framing has run unchanged for years; R.'s records call it version 3.2. One night, alone in an old house, R. sees a translucent figure, fixed in place for several seconds. The temperature drops 8°C, caught on a thermometer. The next morning R.'s partner, who slept upstairs, describes the same figure from a different angle. Weeks later a contractor mentions seeing "something" in the same spot.
 
-The friction is immediate. The ontology has no place for ghosts; the truth criterion won't let corroborated evidence be waved away. R. can't honour both without changing something.
+The friction is immediate. R.'s world has no room for ghosts, and R.'s own standard for truth won't let three witnesses and a thermometer be waved away. Something has to give.
 
-R. opens a metapraxis review: suspend the module vocabulary and attend to what happened, then articulate where the framing strains, then decide. Four decisions would be legitimate:
+R. opens what the framework calls a metapraxis review: set the usual categories aside and stay with what actually happened, then say where the old view strains, then decide. Four decisions would be legitimate:
 
-- **Widen the ontology.** Materialist realism becomes naturalist realism, with room for phenomena mechanistic science hasn't explained. Commit v3.3, linked to the encounter.
-- **Question deeper layers.** Maybe efficient-causation-only, or the living/dead boundary, was over-determined. Load alternatives as candidates.
-- **Type it as other.** Record the encounter as genuinely other: not assimilable, not nothing. Keep the materialism and carry the exception, typed, in the relational atlas.
-- **Combine.** Widen the ontology a little, keep the encounter typed as other, schedule a follow-up review if it recurs.
+- **Widen what exists.** Keep a natural world, but one with room for things science hasn't explained yet. R. commits the change as version 3.3, linked to that night.
+- **Question more than one belief.** Maybe what R. assumed about cause and effect, or about the line between living and dead, was too rigid. Alternatives go on the table.
+- **Type it as other.** Record the encounter as genuinely different: real, not absorbable into what R. already believes, and not nothing. R. changes nothing else and carries the exception, typed, in the records.
+- **Combine.** Widen a little, keep the encounter typed as other, and come back to it if it happens again.
 
-The one thing R.'s own framing forbids is calling it nothing. Dismissing corroborated evidence violates the truth criterion R. is committed to. Revise, or record the difference, but don't pretend.
+The one thing R.'s own rules forbid is pretending it never happened. R. is the one who decided evidence settles what's true, and three witnesses and a thermometer are evidence. Revise, or record the difference, but don't pretend.
 
-Whatever R. decides, the trace keeps it: modules active, evidence weighed, what v3.3 changed, how the encounter was typed. Years later, "when did my ontology shift, and why?" returns this night, with its reasoning intact.
+Whatever R. decides, the trace keeps all of it: what R. believed at the time, what the evidence was, what changed in version 3.3, and how the encounter was typed. Years later, "when did I stop being so sure, and why?" has an answer, with the reasoning intact.
 
-That's the framework doing its job. Evidence pushes, coherence forces an honest answer, and the answer stays visible. The result isn't a loss of realism but a more capacious one, on the record.
+That's the framework doing its job. The evidence pushes, R.'s own standards force an honest answer, and the answer stays visible. R. doesn't lose the hard-headedness. What counts as real gets bigger, and it's on the record.
